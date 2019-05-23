@@ -9,7 +9,7 @@ sidebar_label: Capitalization
 - 두문자어는 모든 글자를 대문자로 합니다. 
 > **예제 #1:** MOZART - Manufacturing Operation Zone by Abstract Real Time  
 > **예제 #2:** MMC - MOZART Management Console   
-> **예제 #3:** MP - Master Plan  
+> **예제 #3:** MP - Master Plan
 > **예제 #4:** DLL - Dynamic Linking Library 
 
 - 문서 제목은 단어의 첫 글자만 대문자로 합니다. 부사/관사는 모두 소문자를 합니다(제목의 시작 단어인 경우는 제외).
