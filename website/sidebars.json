@@ -17,9 +17,13 @@
         "type":"subcategory",
         "label": "Document Writing Guide",
         "ids":["VMSStyleGuide/DocFormStructure","VMSStyleGuide/Punctuation","VMSStyleGuide/Capitalization","VMSStyleGuide/ClauseOrder"]
+      },
+      {
+        "type":"subcategory",
+        "label": "Document Templates",
+        "ids":["VMSStyleGuide/Tip&SampleTemplate","VMSStyleGuide/UserManualTemplate"]
       }
-    ],
-    "Document Templates":["VMSStyleGuide/Tip&SampleTemplate","VMSStyleGuide/UserManualTemplate"]
+    ]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
