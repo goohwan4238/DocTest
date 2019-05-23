@@ -6,26 +6,16 @@
     ],
     "First Category": ["doc2"],
     "Second Category": ["doc3"],
-    "VMS Style Guide": ["VMSStyleGuide/GeneralPrinciples","VMSStyleGuide/DocFormStructure",
+    "VMS Style Guide": 
+    [
       {
-        "type": "subcategory",
-        
-        "ids": ["VMSStyleGuide/Punctuation"]
+        "type":"subcategory",
+        "ids": ["VMSStyleGuide/GeneralPrinciples"]
       },
       {
-        "type": "subcategory",
-        
-        "ids": ["VMSStyleGuide/Capitalization"]
-      },
-      {
-        "type": "subcategory",
-        
-        "ids":["VMSStyleGuide/Cross-references"]
-      },
-      {
-        "type": "subcategory",
-        
-        "ids":["VMSStyleGuide/ClauseOrder"]
+        "type":"subcategory",
+        "label": "Document Writing Guide",
+        "ids":["VMSStyleGuide/DocFormStructure","VMSStyleGuide/Punctuation","VMSStyleGuide/Capitalization","VMSStyleGuide/ClauseOrder"]
       }
     ],
     "Document Templates":["VMSStyleGuide/Tip&SampleTemplate","VMSStyleGuide/UserManualTemplate"]
