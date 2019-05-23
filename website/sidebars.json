@@ -6,7 +6,7 @@
     ],
     "First Category": ["doc2"],
     "Second Category": ["doc3"],
-    "VMS StyleGuide": ["DocFormStructure"]
+    "VMS Style Guide": ["DocFormStructure"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
