@@ -1,6 +1,7 @@
 ---
-id: Captialization
+id: Capitalization
 title: 영문 대/소문자 사용 가이드 
+sidebar_lable: Capitalization
 ---
 
 한글 문서는 대/소문자 사용에 대한 이슈가 많지 않을 수 있습니다. 본 문서는 영문 문서 기준 가이드입니다. 단, 한글 문서 작성 시 영어를 사용해야 하는 경우 아래 조건에 만족하면 본 가이드를 따르기 바랍니다. 
