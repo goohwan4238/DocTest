@@ -2,10 +2,11 @@
   "docs": {
     "Docusaurus": [
       "doc1", 
-      "DocFormStructure"
+      "doc3"
     ],
     "First Category": ["doc2"],
     "Second Category": ["doc3"]
+    "VMS StyleGuide": ["DocFormStructure"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
