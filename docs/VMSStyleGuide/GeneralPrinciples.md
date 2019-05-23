@@ -1,7 +1,7 @@
 ---
 id: GeneralPrinciples
 title: 일반 
-sidebar_label: General Documentation Principles
+sidebar_label: General Principles
 ---
 
 이 스타일 가이드는 VMS Solutions 관련 프로젝트에 대한 문서를 작성하는 모든 사용자를 위한 편집 지침입니다. 

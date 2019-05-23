@@ -1,6 +1,7 @@
 ---
 id: ClauseOrder
 title: 지시문 작성 가이드 
+sidebar_label: Clause Order
 ---
 
 > 핵심 내용 : 지시문을 작성 시에는 조건문을 지시문보다 먼저 작성합니다. 

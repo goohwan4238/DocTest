@@ -10,6 +10,7 @@
     [
       {
         "type":"subcategory",
+        "label": "General Documentation Principles",
         "ids": ["VMSStyleGuide/GeneralPrinciples"]
       },
       {

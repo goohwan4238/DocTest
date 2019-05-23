@@ -1,7 +1,7 @@
 ---
-id: UserManaulTemplate
+id: UserManualTemplate
 title: Manual 문서 Teamplate
-sidebar_label: User Manaul Template
+sidebar_label: User Manual Template
 ---
 
 # 문서 제목 (1단계) # 
