@@ -1,7 +1,7 @@
 ---
 id: DocFormStructure
 title: 문서 형식 및 구조
-sidebar_label: VMS Guide Style
+sidebar_label: Documentation Structure and Format
 ---
 
 본 가이드는 사용자가 문서를 작성 시 참고하기 위한 문서 형식 및 구조에 대한 가이드입니다. 

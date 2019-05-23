@@ -1,3 +1,9 @@
+---
+id: UserManaulTemplate
+title: Manual 문서 Teamplate
+sidebar_label: User Manaul Template
+---
+
 # 문서 제목 (1단계) # 
 
 제목과 제목 사이는 한 줄을 띄어 놓습니다. 

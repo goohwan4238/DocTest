@@ -9,26 +9,26 @@
     "VMS Style Guide": ["VMSStyleGuide/GeneralPrinciples","VMSStyleGuide/DocFormStructure",
       {
         "type": "subcategory",
-        "label": "Punctuation",
+        
         "ids": ["VMSStyleGuide/Punctuation"]
       },
       {
         "type": "subcategory",
-        "label": "Capitalization",
+        
         "ids": ["VMSStyleGuide/Capitalization"]
       },
       {
         "type": "subcategory",
-        "label": "Cross-References",
+        
         "ids":["VMSStyleGuide/Cross-references"]
       },
       {
         "type": "subcategory",
-        "label": "Clause Order",
+        
         "ids":["VMSStyleGuide/ClauseOrder"]
       }
     ],
-    "Document Templates":["VMSStyle/Tip&SampleTemplate","VMSStyle/UserManualTemplate"]
+    "Document Templates":["VMSStyleGuide/Tip&SampleTemplate","VMSStyleGuide/UserManualTemplate"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]

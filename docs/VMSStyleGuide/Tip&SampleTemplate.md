@@ -1,3 +1,8 @@
+---
+id: Tip&SampleTemplate
+title: Tip&Sample 문서 Teamplate
+sidebar_label: Tip&Sample Template
+---
 # 문서 제목 (1단계) #
 
 제목과 제목 사이는 한 줄을 띄어 놓습니다. 
