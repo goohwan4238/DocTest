@@ -1,11 +1,5 @@
 {
   "docs": {
-    "Docusaurus": [
-      "doc1", 
-      "doc3"
-    ],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"],
     "VMS Style Guide": 
     [
       {
