@@ -9,8 +9,8 @@
       },
       {
         "type":"subcategory",
-        "label": "Document Writing Guide",
-        "ids":["VMSStyleGuide/DocFormStructure","VMSStyleGuide/Punctuation","VMSStyleGuide/Capitalization","VMSStyleGuide/ClauseOrder"]
+        "label": "Document Format & Structure Guide",
+        "ids":["VMSStyleGuide/HeadingGuide","VMSStyleGuide/ListGuide","VMSStyleGuide/Punctuation","VMSStyleGuide/Capitalization","VMSStyleGuide/ClauseOrder"]
       },
       {
         "type":"subcategory",
